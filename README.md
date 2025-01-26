@@ -6,7 +6,7 @@ A CasaOS custom Appstore to Indie DevOps includes multiple options for each DevO
 
 - Go to your CasaOS dashboard.
 - Open the appstore and click `Add Source` button  located on the right just above the apps list.
-- Paste the appstore link `https://casaos-appstore.paodayag.dev/linuxserver.zip` and then click `Add` to submit.
+- Paste the appstore link `https://github.com/wendelsilverio/CasaOS-IndieDevOps-AppStore/archive/refs/tags/v0.0.1.zip` and then click `Add` to submit.
 
 - Wait for the installation to finish. Done!
 
