@@ -1,36 +1,37 @@
-# CasaOS AppStore
+# CasaOS IndieDevOps AppStore
 
-[![GitHub issues by-label](https://img.shields.io/github/issues/IceWhaleTech/CasaOS-AppStore/help%20wanted?label=help%20wanted&style=for-the-badge)](https://github.com/IceWhaleTech/CasaOS-AppStore/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) [![GitHub contributors](https://img.shields.io/github/contributors/IceWhaleTech/CasaOS-AppStore?style=for-the-badge)](https://github.com/IceWhaleTech/CasaOS-AppStore/graphs/contributors)
+A CasaOS custom Appstore to Indie DevOps includes multiple options for each DevOps step, which can lead to analysis paralysis but provides flexibility for various types of environments and preferences.
 
-CasaOS AppStore needs your help to grow:
+## 🚀 Getting Started
 
-- See [CONTRIBUTING.md](CONTRIBUTING.md) for how to contribute CasaOS Apps in Docker Compose format.
+- Go to your CasaOS dashboard.
+- Open the appstore and click `Add Source` button  located on the right just above the apps list.
+- Paste the appstore link `https://casaos-appstore.paodayag.dev/linuxserver.zip` and then click `Add` to submit.
 
-  **IMPORTANT**: Your PR must be *well tested* on your own CasaOS first. This is the mandatory first step for your submission.
+- Wait for the installation to finish. Done!
 
-- Check `help wanted` for which issues you can help with.
+> **NOTE: Custom Appstore is only supported on CasaOS version [0.4.4](https://blog.casaos.io/blog/32.html) and above. How to upgrade? [Click here](#-how-to-upgrade-casaos)**
 
-Thank you!
+---
 
-## 3-Party AppStores
+## 📜 Changelog
 
-CasaOS allows you to customize your device with a variety of third-party app stores. Below, you'll find a collection of third-party app store links that you can add to your CasaOS device to expand your app selection and enhance your user experience. 
+You can find the changelog for this project in the [CHANGELOG.md](CHANGELOG.md) file.
 
-Simply copy the provided source link and add it to your CasaOS settings to access the corresponding app store.
+## 📂 Project Structure
 
-- [Awesome Store list](https://awesome.casaos.io/content/3rd-party-app-stores/list.html)
+A brief description of each folder and file in the root of the project:
 
-## Contributors
+- **CHANGELOG.md**: Contains a log of all changes made to the project.
+- **CODE_OF_CONDUCT.md**: Outlines the standards for behavior expected from contributors.
+- **CONTRIBUTING.md**: Provides guidelines for contributing to the project.
+- **LICENSE**: Contains the license information for the project.
+- **README.md**: Provides an overview and documentation of the project.
 
-<a href="https://github.com/IceWhaleTech/CasaOS-AppStore/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=IceWhaleTech/CasaOS-AppStore" />
-</a>
+## 🤝 Contributing
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
+We welcome contributions from the community. Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute.
 
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
+## 📄 License
 
-<!-- ALL-CONTRIBUTORS-LIST:END -->
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
